@@ -1,0 +1,5 @@
+# Phonetic_name
+闲着无聊写了一个基于Excel表格的点名系统
+这个呢只需要你安装xlrb和pywin32就好
+也不完善
+就用着玩
